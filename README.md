@@ -1,7 +1,5 @@
 # Netflix Web Clone
 
-![App Screenshot](screenshot.png)
-
 ## Description
 
 A web application that replicates the user interface of Netflix, allowing users to explore and interact with content in a manner similar to the popular streaming platform.
