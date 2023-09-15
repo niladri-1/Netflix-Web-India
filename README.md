@@ -31,7 +31,7 @@ To run this Netflix clone locally, follow these steps:
 
 ## Demo
 
-[Link to Live Demo] = https://netflx-india.netlify.app/
+[Link to Live Demo](https://netflx-web.netlify.app)
 
 
 ## License
