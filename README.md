@@ -29,10 +29,6 @@ To run this Netflix clone locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open `index.html` in a web browser.
 
-## Demo
-
-[Link to Live Demo](https://netflx-web.netlify.app)
-
 
 ## License
 
