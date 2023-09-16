@@ -1,6 +1,6 @@
 # Netflix Web Clone
 
-![App Screenshot](https://github.com/niladri-1/Netflix-Web-India/blob/main/src/Logo.png)
+![App Screenshot](https://github.com/niladri-1/Netflix-Web-India/blob/main/src/Screenshot.png)
 
 ## Description
 
